@@ -11,3 +11,8 @@ requirements:
 
 
 ![image](https://raw.githubusercontent.com/ald2004/yolov1/master/result.jpg)
+
+
+visualized by visdom or not
+
+![image](https://raw.githubusercontent.com/ald2004/yolov1/master/newplot.png)
